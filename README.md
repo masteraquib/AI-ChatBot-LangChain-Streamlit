@@ -23,6 +23,7 @@
 ┣ 📜 main.py           # Entry point for the chatbot  
 ┣ 📜 requirements.txt  # Dependencies  
 ┣ 📜 README.md         # Documentation  
+```
 
 ## **💡 How It Works**  
 1️⃣ User interacts with the ChatBot via the **Streamlit UI**.  
