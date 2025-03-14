@@ -17,12 +17,15 @@
 
 ## **📂 Project Structure**  
 ```bash
-📦 ai-powered-chatbot  
-┣ 📂 src               # Core chatbot logic  
-┣ 📂 ui                # Streamlit UI components  
-┣ 📜 main.py           # Entry point for the chatbot  
-┣ 📜 requirements.txt  # Dependencies  
-┣ 📜 README.md         # Documentation  
+📦 AI-ChatBot  
+┣ 📂 components    # Core chatbot logic  
+┣ 📂 config        # Configuration settings  
+┣ 📂 models        # AI/ML models used  
+┣ 📂 static        # Static files (CSS, images, etc.)  
+┣ 📂 utils         # Utility functions  
+┣ 📜 .gitignore    # Git ignored files  
+┣ 📜 README.md     # Documentation  
+┣ 📜 app.py        # Main application entry point 
 ```
 
 ## **💡 How It Works**  
